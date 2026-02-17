@@ -1,34 +1,32 @@
 # Tutedude-Python-Asg
 This Repository is for storing and submitting assignments given by Tutedude Academy
 
-The Assignment-1 has two Tasks,
-Task-1: Write a code to Perform Basic Mathematical Operations
-Problem Statement: Write a Python program that does the following:
-1.  Takes two numbers as input from the user.
-2.  Performs the basic mathematical operations on these two numbers:
-    Addition
-    Subtraction
-    Multiplication
-    Division
-3.  Display the results of each operation as below
+The Assignment-2 has two Tasks,
+Task 1: Check if a Number is Even or Odd
+Problem Statement:  Write a Python program that:
+1. 	Takes an integer input from the user.
+2. 	Checks whether the number is even or odd using an if-else statement.
+3. 	Displays the result accordingly.
+Expected Output:
     {
-     Enter the first number: x
-     Enter the second number: y
-     Addition: x+y
-     Subtraction: x-y
-     Multiplication: x*y
-     Division: x/y
+     Enter a number: 25
+   	  25 is an odd number
+     }
+   	{
+   	 Enter a number: 18
+   	  18 is an even number
      }
  
-Task-2: Create a Personalized Greeting
+Task-2: Sum of Integers from 1 to 50 Using a Loop
+ 
 Problem Statement: Write a Python program that:
-1.  Takes a user's first name and last name as input.
-2.  Concatenates the first name and last name into a full name.
-3.  Prints a personalized greeting message using the full name.
-4.  Display the output as below
+1.   Uses a for loop to iterate over numbers from 1 to 50.
+2.   Calculates the sum of all integers in this range.
+3.   Displays the final sum.
+ 
+4.  Expected Output:
+
 5.  {
-6.   Enter the first name: Rohith
-7.   Enter the second name: Ravula
-8.   Hello, Rohith Ravula! Welcome to the Python Program
-9.   }
+  The Sum of the numbers from 1 to 50 is: 1275
+6.   }
 
