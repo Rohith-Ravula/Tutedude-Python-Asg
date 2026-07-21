@@ -1,32 +1,37 @@
 # Tutedude-Python-Asg
 This Repository is for storing and submitting assignments given by Tutedude Academy
 
-The Assignment-2 has two Tasks,
-Task 1: Check if a Number is Even or Odd
-Problem Statement:  Write a Python program that:
-1. 	Takes an integer input from the user.
-2. 	Checks whether the number is even or odd using an if-else statement.
-3. 	Displays the result accordingly.
-Expected Output:
-    {
-     Enter a number: 25
-   	  25 is an odd number
-     }
-   	{
-   	 Enter a number: 18
-   	  18 is an even number
-     }
+Assignment 3 files has two Tasks.
+1) Factorial using Recursion
+2) Calculations with math module
+
+Task 1: Calculate Factorial Using a Function 
+
+
+Problem Statement: Write a Python program that:
+1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
+2.   Returns the calculated factorial.
+3.   Calls the function with a sample number and prints the output.
  
-Task-2: Sum of Integers from 1 to 50 Using a Loop
+Expected Output:
+For example, if the function is called with 5, it should return:
+Enter a number: 5
+Factorial of 5 is 120
+
+Task 2: Using the Math Module for Calculations
  
 Problem Statement: Write a Python program that:
-1.   Uses a for loop to iterate over numbers from 1 to 50.
-2.   Calculates the sum of all integers in this range.
-3.   Displays the final sum.
- 
-4.  Expected Output:
+1.   Asks the user for a number as input.
+2.   Uses the math module to calculate the:
+o   Square root of the number
+o   Natural logarithm (log base e) of the number
+o   Sine of the number (in radians)
+3.   Displays the calculated results.
 
-5.  {
-  The Sum of the numbers from 1 to 50 is: 1275
-6.   }
+ Expected Output:
+ For example, if the user enters 25, the output should be:
+Square root of 25 is 5
+Natural Logarithm of 25 is 3.2188
+Sine of 25 is -0.132351
+ 
 
